@@ -1,3 +1,5 @@
+Sesion 01
+
 Herramientas
 
 	Motores de base de datos
@@ -30,11 +32,6 @@ Herramientas
 
 		R Project
 PostgreSQL
-
-
-
-
-Sesion 1
 
 	Algoritmo
 	Codificacion - Lenguaje de programacion
