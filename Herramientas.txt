@@ -1,0 +1,51 @@
+Herramientas
+
+	Motores de base de datos
+
+		SQL Server Express
+		Sublime Text
+
+	Editores de texto
+		Sublime text
+
+	Herramientas para desarrollo web
+		XAMPP
+			Apache - Servidor web
+			PHP - Lenguaje de programacion web
+
+		Editores de texto
+			Sublime Text
+
+			HTML5 - CSS - JAVASCRIPT
+			FRAMEWORK BOOSTRAP	
+
+	Herramienta para pseudo codigo y algoritmo
+		PSeInt
+
+	Herramienta Colaborativas en tiempo real
+		Github
+		Code share
+
+	Lenguaje de programacion Avanzado
+
+		R Project
+PostgreSQL
+
+
+
+
+Sesion 1
+
+	Algoritmo
+	Codificacion - Lenguaje de programacion
+	Base de datos - Diseño y Lenguaje SQL
+	Mi primer APP
+
+Tecnologias
+	Pseudo - codigo
+	PHP y R - Backend
+	HTML y CSS (Lenguaje de etiquetas), JAVASCRIPT - FrontEnd
+	Lenguaje SQL
+	Gestion Github
+
+Herramientas colaborativas en tiempo real
